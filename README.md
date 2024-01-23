@@ -3,6 +3,7 @@ About r-roughsets-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-roughsets-feedstock/blob/main/LICENSE.txt)
 
+
 About r-roughsets
 -----------------
 
@@ -11,6 +12,7 @@ Home: https://github.com/janusza/RoughSets
 Package license: GPL-2.0-or-later
 
 Summary: Implementations of algorithms for data analysis based on the rough set theory (RST) and the fuzzy rough set theory (FRST). We not only provide implementations for the basic concepts of RST and FRST but also popular algorithms that derive from those theories. The methods included in the package can be divided into several categories based on their functionality: discretization, feature selection, instance selection, rule induction and classification based on nearest neighbors. RST was introduced by Zdzisław Pawlak in 1982 as a sophisticated mathematical tool to model and process imprecise or incomplete information. By using the indiscernibility relation for objects/instances, RST does not require additional parameters to analyze the data. FRST is an extension of RST. The FRST combines concepts of vagueness and indiscernibility that are expressed with fuzzy sets (as proposed by Zadeh, in 1965) and RST.
+
 About r-roughsets
 -----------------
 
@@ -153,7 +155,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
